@@ -14,7 +14,7 @@ public class ResponseTime {
 	@Test
 	public void simpleExample(){
 
-		String myJson = "{\"name\": \"iso-appprestador\",\"password\": \"BQCE8[UtPT5M;GGg\"}";
+		String myJson = "{\"name\": \"username\",\"password\": \"password\"}";
 		
 		RestAssured.baseURI = "http://wsodontoweb-h.sulamerica.br/api";
 
